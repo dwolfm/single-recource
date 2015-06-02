@@ -1,0 +1,1 @@
+{"client":{"name":"spot_bash_cli"},"country":"US","locales":["*"]}
